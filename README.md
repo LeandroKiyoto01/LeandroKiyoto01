@@ -18,40 +18,19 @@
     <img alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </div>
 
-## Design 🎨
-
-<div style="display: inline_block">
-    <img alt="illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" />
-    <img alt="photoshop" src="    https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
-    <img alt="canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
-</div>
-
-## IDE ⌨️
-
-
-<div style="display: inline_block">
-    <img alt="visualStudio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white
-    " />
-    <img alt="visualStudioCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white
-    " />
-    <img alt="notepad" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />
-</div>
-
 ## OS 📀
-
 <div style="display: inline_block">
-    <img alt="windows" src="https://img.shields.io/badge/Windows 11-0078D6?style=for-the-badge&logo=windows&logoColor=white
-    " />
+    <h3>Windows 11</h2>
 </div>
 
 ## Workspace 💻
 
 <div style="display: inline_block">
     <h3>Dell G15 5530</h2>
-    <img alt="processador" src="https://img.shields.io/badge/Intel-Core_i5_13450hx-0071C5?style=for-the-badge&logo=intel&logoColor=white
-    " /><p>
-    <img alt="placaDeVideo" src="https://img.shields.io/badge/NVIDIA-RTX4050-76B900?style=for-the-badge&logo=nvidia&logoColor=white
-    " />
+    <h3>Processador: Intel Core i5-13450HX</h2>
+    <h3>Placa de video: RTX 4050 6GB</h2>
+    <h3>Memória ram: 16GB DDR5 4800MHZ</h2>
+    <h3>Monitor: 1920x1080 / 165HZ - 100% RGB</h2>
 </div>
 
 ## About me 🧑🏼‍💻
