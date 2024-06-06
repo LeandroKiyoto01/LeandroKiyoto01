@@ -1,7 +1,9 @@
-## Olá meu nome é Leandro Kiyoto ✌️
+## About me 🧑🏼‍💻
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroKiyoto01&show_icons=true&theme=radical)
+#### Meu nome é Leandro Kiyoto, atualmente tenho 22 anos, cursando análise e desenvolvimento de sistemas, me arrisco no desenvolvimento desde os meus 13 anos, mas somente agora estou tendo a oportunidade de realmente colocar meu conhecimento em prática.
+#### Trabalho desenvolvendo principalmente sistemas para controle de acesso, com integração em catracas de acesso e leitores biométricos e de proximidade. Hoje tenho já rodando o sistema para controle de mensalidades, e estou trabalhando em um sistema de acesso para condominíos, portarias e empresas. Além disso também trabalho produzindo WebServices para rodar dentro das nossas placas.
 
+#### Todo os dias estou em busca de conhecimento e melhorias, e acredito que a cada dia que passa, chego mais próximo dos meus objetivos.
 <div style="display: inline_block">
 <p>ㅤ</p>
 </div>
@@ -48,17 +50,6 @@
     <h4>Memória ram: 16GB DDR5 4800MHZ</h4>
     <h4>Monitor: 1920x1080 / 165HZ - 100% RGB</h4>
 </div>
-
-<div style="display: inline_block">
-<p>ㅤ</p>
-</div>
-
-## About me 🧑🏼‍💻
-
-#### Atualmente tenho 22 anos, cursando análise e desenvolvimento de sistemas, me arrisco no desenvolvimento desde os meus 13 anos, mas somente agora estou tendo a oportunidade de realmente colocar meu conhecimento em prática.
-#### Trabalho desenvolvendo principalmente sistemas para controle de acesso, com integração em catracas de acesso e leitores biométricos e de proximidade. Hoje tenho já rodando o sistema para controle de mensalidades, e estou trabalhando em um sistema de acesso para condominíos, portarias e empresas. Além disso também trabalho produzindo WebServices para rodar dentro das nossas placas.
-
-#### Todo os dias estou em busca de conhecimento e melhorias, e acredito que a cada dia que passa, chego mais próximo dos meus objetivos.
 
 <div style="display: inline_block">
 <p>ㅤ</p>
