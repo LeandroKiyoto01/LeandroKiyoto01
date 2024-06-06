@@ -2,6 +2,10 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroKiyoto01&show_icons=true&theme=radical)
 
+<div style="display: inline_block">
+<p>ㅤ</p>
+</div>
+
 ## Technologies 💡
 
 <div style="display: inline_block">
@@ -12,25 +16,41 @@
     <img alt="net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 </div>
 
+<div style="display: inline_block">
+<p>ㅤ</p>
+</div>
+
 ## Database 📂
 <div style="display: inline_block">
     <img alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
     <img alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
 </div>
 
+<div style="display: inline_block">
+<p>ㅤ</p>
+</div>
+
 ## OS 📀
 <div style="display: inline_block">
-    <h3>Windows 11</h2>
+    <h4>Windows 11</h4>
+</div>
+
+<div style="display: inline_block">
+<p>ㅤ</p>
 </div>
 
 ## Workspace 💻
 
 <div style="display: inline_block">
-    <h3>Dell G15 5530</h2>
-    <h3>Processador: Intel Core i5-13450HX</h2>
-    <h3>Placa de video: RTX 4050 6GB</h2>
-    <h3>Memória ram: 16GB DDR5 4800MHZ</h2>
-    <h3>Monitor: 1920x1080 / 165HZ - 100% RGB</h2>
+    <h3>Dell G15 5530</h3>
+    <h4>Processador: Intel Core i5-13450HX</h4>
+    <h4>Placa de video: RTX 4050 6GB</h4>
+    <h4>Memória ram: 16GB DDR5 4800MHZ</h4>
+    <h4>Monitor: 1920x1080 / 165HZ - 100% RGB</h4>
+</div>
+
+<div style="display: inline_block">
+<p>ㅤ</p>
 </div>
 
 ## About me 🧑🏼‍💻
@@ -40,7 +60,11 @@
 
 #### Todo os dias estou em busca de conhecimento e melhorias, e acredito que a cada dia que passa, chego mais próximo dos meus objetivos.
 
+<div style="display: inline_block">
+<p>ㅤ</p>
+</div>
+
 ## Softwares made by me 💸
-### ✅ 1- Gerencial Sistemas Relsystem (Rodando)
-### ✅ 2- Relsystem Block Date - LITE (Rodando)
-### ⚠️ 3- Relsystem Access - LITE (Em desenvolvimento)
+#### ✅ 1- Gerencial Sistemas Relsystem (Rodando)
+#### ✅ 2- Relsystem Block Date - LITE (Rodando)
+#### ⚠️ 3- Relsystem Access - LITE (Em desenvolvimento)
