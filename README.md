@@ -33,7 +33,8 @@
 
 ## OS 📀
 <div style="display: inline_block">
-    <h4>Windows 11</h4>
+    <h4>MacOS Sequoia v15.4.1</h4>>
+    <h4>Windows 10 PRO - bootcamp</h4>
 </div>
 
 <div style="display: inline_block">
@@ -43,13 +44,10 @@
 ## Workspace 💻
 
 <div style="display: inline_block">
-    <h3>Dell G15 5530</h3>
-    <h4>Processador: Intel Core i5-13450HX</h4>
-    <h4>Placa de vídeo: RTX 4050 6GB</h4>
-    <h4>Memória RAM: 16GB DDR5 4800MHz</h4>
-    <h4>Monitor do notebook: 1920x1080 / 165Hz - 100% sRGB</h4>
-    <h4>Monitor secundário: 1920x1080 / 75Hz</h4>
-    <h4>Monitor terciário: 1600x900 / 60Hz</h4>
+    <h3>Macbook Air 2020</h3>
+    <h4>Processador: Intel Core i3</h4>
+    <h4>Placa de vídeo: Intel Iris Plus 1536MB</h4>
+    <h4>Memória RAM: 8GB</h4>
 </div>
 
 <div style="display: inline_block">
