@@ -1,10 +1,10 @@
 ## About me 🧑🏼‍💻
 
-##Olá! Meu nome é Leandro Kiyoto, tenho 23 anos e sou formado em Análise e Desenvolvimento de Sistemas.
+### Olá! Meu nome é Leandro Kiyoto, tenho 23 anos e sou formado em Análise e Desenvolvimento de Sistemas.
 
-##Sou apaixonado por tecnologia e desenvolvimento de software, e acredito que o aprendizado é um processo contínuo.
+### Sou apaixonado por tecnologia e desenvolvimento de software, e acredito que o aprendizado é um processo contínuo.
 
-##Todos os dias busco evoluir, adquirir novos conhecimentos e aprimorar minhas habilidades, sempre com o objetivo de me tornar uma versão melhor de mim mesmo como profissional e pessoa.
+### Todos os dias busco evoluir, adquirir novos conhecimentos e aprimorar minhas habilidades, sempre com o objetivo de me tornar uma versão melhor de mim mesmo como profissional e pessoa.
 
 <div style="display: inline_block">
 <p>ㅤ</p>
