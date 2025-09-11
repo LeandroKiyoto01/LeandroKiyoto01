@@ -66,4 +66,6 @@ Todos os dias busco evoluir, adquirir novos conhecimentos e aprimorar minhas hab
 #### ✅ 5- Aluno Relsystem - WEB (Rodando) - sistema para que o aluno tenha acesso a sua mensalidade, treino e etc em conjunto com o Block Date - LITE.
 #### ✅ 6- Professor Relsystem - WEB (Rodando) - sistema para que o professor crie treinos, escalar e etc para os alunos, em conjunto com o Block Date - LITE.
 #### ✅ 7- Kontei Stock - WEB (Rodando) - sistema de gerenciamento de estoque, fluxo de caixa e etc.
-#### ❌ 8- Relsystem Block Date - WEB (Em desenvolvimento) - sistema para controle de mensalidades e controle de giro das catracas, estou transformando o atual Relsystem Block Date - LITE que e desktop, em uma versao totalmente web.
+#### ✅ 8- Relsystem Block Date - WEB (Rodando) - sistema para controle de mensalidades e controle de giro das catracas, estou transformando o atual Relsystem Block Date - LITE que e desktop, em uma versao totalmente web.
+#### ✅ 9- Gerencial Block Date - WEB (Rodando) - sistema para o gerenciamento das licencas do sistema block date - web.
+#### ❌ 10- Click na Hora (Em desenvolvimento) - sistema para integrar prestadores de servico com clientes, sistema focado em agendamentos (Barbeiros, manicures, clinicos e etc).
