@@ -1,6 +1,6 @@
 ## About me 🧑🏼‍💻
 
-Olá! Meu nome é Leandro Kiyoto, tenho 23 anos e sou formado em Análise e Desenvolvimento de Sistemas.
+Olá! Meu nome é Leandro Kiyoto, tenho 25 anos e sou formado em Análise e Desenvolvimento de Sistemas.
 
 Sou apaixonado por tecnologia e desenvolvimento de software, e acredito que o aprendizado é um processo contínuo.
 
@@ -35,37 +35,11 @@ Todos os dias busco evoluir, adquirir novos conhecimentos e aprimorar minhas hab
 <p>ㅤ</p>
 </div>
 
-## OS 📀
 <div style="display: inline_block">
-    <h4>MacOS Ventura 13.7.6</h4>>
-    <h4>Windows 10 PRO - bootcamp</h4>
+<p>ㅤ</p>
 </div>
 
 <div style="display: inline_block">
 <p>ㅤ</p>
 </div>
 
-## Workspace 💻
-
-<div style="display: inline_block">
-    <h3>Macbook Air 2020</h3>
-    <h4>Processador: Intel Core i3</h4>
-    <h4>Placa de vídeo: Intel Iris Plus 1536MB</h4>
-    <h4>Memória RAM: 8GB</h4>
-</div>
-
-<div style="display: inline_block">
-<p>ㅤ</p>
-</div>
-
-## Softwares made by me 💸
-#### 🚫 1- Gerencial Sistemas Relsystem (Substituído) - sistema desktop para controle de licenças dos sistemas relsystem.
-#### ✅ 2- Relsystem Block Date - LITE (Rodando) - sistema para controle de mensalidades e giro de catracas.
-#### ✅ 3- Relsystem Acesso - LITE (Rodando) - sistema para controle de acesso, empresas, condominios, refeitórios e etc.
-#### ✅ 4- Gerencial de sistemas Relsystem - WEB (Rodando) - sistema aonde controla as licenças dos clientes que utilizam os sistemas relsystem, controlando as revendas, cadastros, relátorios e etc.
-#### ✅ 5- Aluno Relsystem - WEB (Rodando) - sistema para que o aluno tenha acesso a sua mensalidade, treino e etc em conjunto com o Block Date - LITE.
-#### ✅ 6- Professor Relsystem - WEB (Rodando) - sistema para que o professor crie treinos, escalar e etc para os alunos, em conjunto com o Block Date - LITE.
-#### ✅ 7- Kontei Stock - WEB (Rodando) - sistema de gerenciamento de estoque, fluxo de caixa e etc.
-#### ✅ 8- Relsystem Block Date - WEB (Rodando) - sistema para controle de mensalidades e controle de giro das catracas, estou transformando o atual Relsystem Block Date - LITE que e desktop, em uma versao totalmente web.
-#### ✅ 9- Gerencial Block Date - WEB (Rodando) - sistema para o gerenciamento das licencas do sistema block date - web.
-#### ❌ 10- Click na Hora (Em desenvolvimento) - sistema para integrar prestadores de servico com clientes, sistema focado em agendamentos (Barbeiros, manicures, clinicos e etc).
